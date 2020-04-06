@@ -19,7 +19,7 @@ library(knitr) # Generate nice tables
 #gil <- get_artist_audio_features('gilberto gil')
 #df <- as.data.frame(apply(gil,2, as.character))
 #gil_pop <- df
-#for (i in 1:1053){
+#for (i in 1:nrow(gil_pop)){
   #gil_pop[i,40] <- get_track(gil_pop$track_id[i])[13]
 #}
 #write.csv(gil_pop, 'Gilberto_Gil_Final.csv', row.names=FALSE)
