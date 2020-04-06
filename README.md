@@ -55,7 +55,7 @@ A razão de modo mostra quantos % das músicas do álbum estão em tom maior.
 
 -Key by Year
 
-![Key by Year Timeline](/Images/Songs_by_Key_Timeline.gif)
+![Key by Year Timeline](https://raw.githubusercontent.com/rodrigobercini/gilberto-gil-eda/master/Images/Songs_by_Key_Timeline.gif)
 
 -Popularity by Year
 
