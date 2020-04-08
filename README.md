@@ -61,7 +61,7 @@ As músicas de Gil geralmente estão em tom Maior.
 
 ### Tom por ano
 
-![Key by Year Timeline](/Images/Songs_by_Key_Timeline.gif)
+![Key by Year Timeline](https://raw.githubusercontent.com/rodrigobercini/gilberto-gil-eda/master/Images/Songs_by_Key_Timeline.gif)
 
 ### Popularidade por ano
 
